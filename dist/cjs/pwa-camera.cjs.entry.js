@@ -482,5 +482,3 @@ const CameraPWA = class {
 CameraPWA.style = cameraCss;
 
 exports.pwa_camera = CameraPWA;
-
-//# sourceMappingURL=pwa-camera.cjs.entry.js.map

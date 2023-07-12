@@ -153,4 +153,3 @@ if (typeof ImageCapture === 'undefined') {
   };
 }
 window.ImageCapture = ImageCapture;
-//# sourceMappingURL=imagecapture.js.map

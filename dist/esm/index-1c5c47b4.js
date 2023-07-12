@@ -1634,5 +1634,3 @@ const nextTick = /*@__PURE__*/ (cb) => promiseResolve().then(cb);
 const writeTask = /*@__PURE__*/ queueTask(queueDomWrites, true);
 
 export { Host as H, bootstrapLazy as b, createEvent as c, forceUpdate as f, getElement as g, h, promiseResolve as p, registerInstance as r, setNonce as s };
-
-//# sourceMappingURL=index-1c5c47b4.js.map

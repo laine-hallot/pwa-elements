@@ -47,5 +47,3 @@ const PWAToast = class {
 PWAToast.style = toastCss;
 
 exports.pwa_toast = PWAToast;
-
-//# sourceMappingURL=pwa-toast.cjs.entry.js.map

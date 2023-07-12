@@ -434,4 +434,3 @@ export class CameraPWA {
   }
   static get elementRef() { return "el"; }
 }
-//# sourceMappingURL=camera.js.map

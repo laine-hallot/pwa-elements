@@ -141,4 +141,3 @@ export class PWACameraModal {
       }];
   }
 }
-//# sourceMappingURL=camera-modal-instance.js.map

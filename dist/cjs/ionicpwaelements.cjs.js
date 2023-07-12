@@ -24,5 +24,3 @@ patchBrowser().then(options => {
 });
 
 exports.setNonce = index.setNonce;
-
-//# sourceMappingURL=ionicpwaelements.cjs.js.map

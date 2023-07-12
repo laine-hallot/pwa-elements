@@ -40,5 +40,3 @@ const PWAActionSheet = class {
 PWAActionSheet.style = actionSheetCss;
 
 export { PWAActionSheet as pwa_action_sheet };
-
-//# sourceMappingURL=pwa-action-sheet.entry.js.map

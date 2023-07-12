@@ -43,5 +43,3 @@ const PWACameraModal = class {
 PWACameraModal.style = cameraModalCss;
 
 exports.pwa_camera_modal = PWACameraModal;
-
-//# sourceMappingURL=pwa-camera-modal.cjs.entry.js.map

@@ -1664,5 +1664,3 @@ exports.h = h;
 exports.promiseResolve = promiseResolve;
 exports.registerInstance = registerInstance;
 exports.setNonce = setNonce;
-
-//# sourceMappingURL=index-d7f36e37.js.map
