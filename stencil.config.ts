@@ -10,6 +10,7 @@ export const config: Config = {
     { type: 'www' },
   ],
   buildEs5: true,
+  sourceMap: false,
   extras: {
     enableImportInjection: true
   }
